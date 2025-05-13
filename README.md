@@ -1,4 +1,4 @@
-<h1 align="center">Iconsax Compose</h1>
+<h1 align="center">IconJet</h1>
 
 <p align="center">
   A Jetpack Compose library that provides easy access to the <a href="https://iconsax.dev/" target="_blank">Iconsax</a> icon set (over 1,000 scalable vector icons created by <a href="https://vuesax.com/" target="_blank">Vuesax</a>) in multiple styles — Linear, Bulk, Outline, TwoTone, and Filled. Designed for easy integration, it enables consistent and modern UI development with minimal implementation effort.
